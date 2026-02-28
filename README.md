@@ -9,3 +9,6 @@ A simple YouTube video downloader built with Python and yt-dlp for personal use.
    `python main.py`
 
 3. Paste the link of the youtube video into the terminal
+
+
+To do: improve the quality of the downloaded video
